@@ -1,0 +1,12 @@
+.formulario-envio button#btnCancelar:hover{
+    background-color: rgba(100, 100, 100, 0.822);
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+}
+
+footer img{
+    width: 50px;
+}
